@@ -24,6 +24,3 @@ work in progress!
 ---
 
 Always open to advice on projects to build and ways to grow in tech — I’d love to hear your thoughts!
-
-## Contact Me
-[linkedin](https://www.linkedin.com/in/nadim-amin/)
