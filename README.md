@@ -7,7 +7,7 @@ I'm a Computer Science Graduate seeking roles in Full-stack development with a s
 **Tools & Frameworks**: React.js, React Native, Node.js, REST APIs, Firebase
 
 ## Ongoing Projects
-work in progress!
+**FitSplit** - FitSplit is a cross-platform workout planning app built with React Native that generates a personalised training split based on a user’s schedule, goals and experience level.
 
 ## University Modules Included
 
