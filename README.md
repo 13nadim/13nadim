@@ -1,5 +1,5 @@
 ## About Me
-I'm a Computer Science Graduate seeking roles in Full-stack development with a strong interest in data and cloud technologies!
+Hi, I'm Nadim, a Computer Science Graduate seeking a role in the world of tech with a strong interest in application development, data and cloud technologies!
 
 ## Technical Skills
 
@@ -7,7 +7,7 @@ I'm a Computer Science Graduate seeking roles in Full-stack development with a s
 **Tools & Frameworks**: React Native, React.js, Node.js, REST APIs, Firebase
 
 ## Ongoing Projects
-**FitSplit** - FitSplit is a cross-platform workout planning app built with React Native that generates a personalised training split based on a user’s schedule.
+**FitSplit** - a cross-platform workout planning app built with React Native that generates a personalised training split based on a user’s schedule.
 
 ## University Modules Included
 
